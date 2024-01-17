@@ -10,7 +10,7 @@ from termcolor import colored as clr
 # After we've gathered all of the forbidden endpoints, we will start bypassing the file, using various techniques.
 
 ### BANNER
-print("lol")
+print("")
 
 ### PARSER
 p = argparse.ArgumentParser()
